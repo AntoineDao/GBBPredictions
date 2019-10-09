@@ -1,0 +1,85 @@
+Baker,Signature,Technical,Showstopper,episode_number,episode_theme,season
+Antony,Turmeric and Caraway Goosnargh Cakes,12th,"""Kilimanjaro Selfie""",1,_Biscuits,9
+Briony,Apple Cider Empire Biscuits,2nd,"""Bristol Biscuit Selfie""",1,_Biscuits,9
+Dan,Lemon and Strawberry Shrewsburys,4th,"""New Dad in Palm Springs""",1,_Biscuits,9
+Imelda,Cherry and White Chocolate Oatmeal Biscuits,11th,"""Seaside Selfie""",1,_Biscuits,9
+Jon,Aberffraw 'Creams',5th,"""A Sailing Selfie by the Sea""",1,_Biscuits,9
+Karen,Yorkshire Perkins,6th,"Rosewater and Cardamom ""Holiday Selfie""",1,_Biscuits,9
+Kim-Joy,Orange Blossom York Biscuits,10th,"""Me at Miyajima Shrine""",1,_Biscuits,9
+Luke,Yorkshire Gingernuts,8th,"""What Happens In Vegas...!""",1,_Biscuits,9
+Manon,Hazelnut Cornish Shortbread,3rd,Matcha and White Chocolate Ganache Japanese Selfie,1,_Biscuits,9
+Rahul,Fennel and Coconut Pitcaithly Bannock,7th,"""First Spring in the UK""",1,_Biscuits,9
+Ruby,Masala Chai Devon Flats,1st,"""Gingerbread Marathon Selfie""",1,_Biscuits,9
+Terry,Lake District Ginger Shortbread,9th,"""Brandy Snap Selfie""",1,_Biscuits,9
+Antony,Cardamom and Coconut Burfi Traybake,9th,"Pistachio, Saffron and Rose Cake",2,_Cakes,9
+Briony,Turron and Orange Traybake,5th,Chocolate Fudge and Salted Caramel Creation,2,_Cakes,9
+Dan,Black Forest Slice,3rd,Dark Chocolate and Raspberry Birthday Cake,2,_Cakes,9
+Jon,Lemon Meringue Traybake,1st,Hawaiian Shirt Pina Colada Cake,2,_Cakes,9
+Karen,Almond and Marzipan Traybake with Rhubarb Jam,11th,Strawberry Fayre Chocolate Cake,2,_Cakes,9
+Kim-Joy,Pandan Chiffon Cake with Palm Sugar Cream,4th,Yuzu and Raspberry Genoise Cat Cake,2,_Cakes,9
+Luke,Lemon and Poppy Seed Traybake,7th,Raspberry and White Chocolate Collar Cake,2,_Cakes,9
+Manon,Rosemary and Honey Traybake,6th,Almond Princess Cake,2,_Cakes,9
+Rahul,Lemon and Cardamom Traybake,2nd,Chocolate Orange Layer Cake,2,_Cakes,9
+Ruby,Boozy Black Forest Traybake,10th,"Chocolate Orange ""Jackson Pollock"" Collar Cake",2,_Cakes,9
+Terry,Rum and Raisin Traybake,8th,Champagne and Strawberries Eiffel Tower Collar Cake,2,_Cakes,9
+Antony,Decadent Breakfast Chelsea Buns,8th,Chocolate and Orange Adventure Korovai,3,_Bread,9
+Briony,Balsamic Strawberry Chelsea Buns,9th,Happily Ever After Korovai,3,_Bread,9
+Dan,Sticky Spiced Orange Chelsea Buns,6th,Wedding Korovai,3,_Bread,9
+Jon,Cardiff City vs Chelsea Buns,2nd,Korovai Dydd Dewi Sant,3,_Bread,9
+Karen,Peak District Christmas Chelsea Buns,5th,French Breakfast Wedding Korovai,3,_Bread,9
+Kim-Joy,Pistachio and Cardamom Tangzhong Chelsea Buns,10th,"Orange, Cinnamon and Cranberry 'Kit-ovai'",3,_Bread,9
+Manon,"Apricot, Cranberry and Marzipan Chai Chelsea Buns",3rd,Fabergé Inspired Traditional Korovai,3,_Bread,9
+Rahul,Mango and Cranberry Chelsea Buns,4th,Garden Wedding Korovai,3,_Bread,9
+Ruby,"Gujarela Chelsea Buns with Dates, Almonds and Raisins",7th,Mama and Papa's Belated Wedding Korovai,3,_Bread,9
+Terry,Tangy Citrus Sticky Chelsea Buns,1st,Garden Korovai,3,_Bread,9
+Briony,Treacle Tart Roulade,5th,Blood Orange & Amaretto Sticky Toffee Sphere,4,_Desserts,9
+Dan,Florida Roulade,1st,Dan and the Giant Peach,4,_Desserts,9
+Jon,Mango and Passion Fruit Roulade,3rd,Lucy and Hannah's Ballet Cake,4,_Desserts,9
+Karen,Coffee Cream and Praline Roulade,7th,Chateau Du Chambord Framboise,4,_Desserts,9
+Kim-Joy,'Sweet Dreams' Roulade,6th,Melting Chocolate Galaxy,4,_Desserts,9
+Manon,Amarene and Kirsch Cherry Roulade,8th,White Chocolate Renaissance Surprise,4,_Desserts,9
+Rahul,Rhubarb and Custard Roulade,4th,Opera Cake with Kalash Inspired Dome,4,_Desserts,9
+Ruby,Pina Colada Roulade,2nd,Chocolate Egg,4,_Desserts,9
+Terry,Did not compete,,,4,_Desserts,9
+Briony,Honey and Apricot Ginger Cake,6th,Turmeric Latte Chandelier,5,_Spice,9
+Dan,Ginger and Lemon Drip Cake,2nd,Birthday Kaleidoscope for Constance,5,_Spice,9
+Jon,Family Christmas Ginger Cake,7th,Birthday Chandelier for Emily's 21st,5,_Spice,9
+Karen,Bonfire Night Ginger Cake,9th,Pontefract Girls' School Reunion,5,_Spice,9
+Kim-Joy,Stem Ginger Cake with Poached Pears,4th,Christmas Spiced Ice Chandelier,5,_Spice,9
+Manon,Italian Meringue Ginger Cake,5th,Art Deco Spiced Biscuit Chandelier,5,_Spice,9
+Rahul,Bonfire Night Caramel Ginger Cake,3rd,Durga Puja Cardamom Chandelier,5,_Spice,9
+Ruby,Jamaican Me Crazy Ginger Cake,1st,Peacock Chandelier,5,_Spice,9
+Terry,Caramelised Pear and Stem Ginger Cake,8th,12 Days of Christmas Chandelier,5,_Spice,9
+Briony,Home Comforts,1st,"""Down the Rabbit Hole"" Banquet Pie",6,_Pastry,9
+Dan,Festive Samosas,6th,Salmon Coulibiac,6,_Pastry,9
+Jon,"A Romantic Dinner For Two, Samosa Style",2nd,Welsh Dragon Pie,6,_Pastry,9
+Kim-Joy,Flavours of India,5th,Silke the Vegetarian Mermaid,6,_Pastry,9
+Manon,Samosas for Mum,4th,"""What Has Poppy Eaten?""",6,_Pastry,9
+Rahul,Paneer Singara and Misti Singara,3rd,Butterfly Pie,6,_Pastry,9
+Ruby,Traditional Samosas,7th,Kohinoor Crown,6,_Pastry,9
+Briony,French Onion Tartlets and Celeriac & Apple Tartlets,5th,Hazelnut Mocha Cake,7,_Vegan,9
+Jon,Garlic Mushroom Tartlets and Falafel & Hummus Tartlets,4th,Only Fools Eat Horses Cake,7,_Vegan,9
+Kim-Joy,Broccoli & Tomato Quiches and Mascarpone Squirrel Tartlets,6th,Lavender & Lemon Fox Cake,7,_Vegan,9
+Manon,Summer & Winter Tartlets,2nd,Spiced Apple Cake,7,_Vegan,9
+Rahul,Coriander Posto & Veg Tartlets and Ghugni Chaat Tartlets,1st,Chocolate & Coconut Layer Cake with Raspberry Jam,7,_Vegan,9
+Ruby,Sage & Butternut Tartlets and 'Cheesy Greens' Tartlets,3rd,"Chocolate, Lemon & Coconut Cake",7,_Vegan,9
+Briony,Spanish & West Country Smørrebrød,1st,Nana Pat Kagekone,8,_Danish,9
+Kim-Joy,Bumblebee Eggs & Fish Smørrebrød,2nd,Off to the Opera Kagekone,8,_Danish,9
+Manon,Cheese and Fruit Smørrebrød,4th,Birthday Girl Kagekone,8,_Danish,9
+Rahul,Smoked Salmon & Roasted Vegetable Smørrebrød,5th,Indian King Kagemand,8,_Danish,9
+Ruby,Post-Gym Smørrebrød,3rd,Sister Kagekone,8,_Danish,9
+Briony,Mojito Madeleines and Espresso Martini Madeleines,3rd,"British Tea to French Pâtisserie Window(Lemon Drizzle Éclairs, Coffee & Walnut Mille-Feuilles and Black Forest Tartlets)",9,_P.C3.A2tisserie_.28semi-final.29,9
+Kim-Joy,Ginger and Lemon Madeleines and Orange Bunny Madeleines,2nd,"Flavourite Flavours Window Display(Lemon & Blueberry Mille-Feuilles, Orange Religieuses and Mango & Passion Fruit Meringue Tartlets)",9,_P.C3.A2tisserie_.28semi-final.29,9
+Rahul,Lemon and Raspberry Madeleines and Orange Curd Madeleines,4th,"Classic Tribute to Pâtisserie Window(Lemon & Blueberry Mille-Feuilles, Caramel Éclairs, Classic Fruit Tartlets)",9,_P.C3.A2tisserie_.28semi-final.29,9
+Ruby,Pick Your Own Madeleines,1st,"Parisian Un Bouquet de Fleurs Window Display(Summer Mille-Feuilles, Chocolate & Hazelnut Saint-Honorés and Lemon Verbena Tartlets)",9,_P.C3.A2tisserie_.28semi-final.29,9
+Kim-Joy,Amaretto Diplomat Filled Doughnuts and Lemon Ring Doughnuts,1st,Lost City of Atlantis Dessert Landscape,10,_Final,9
+Rahul,Mango Créme Pâtissière Filled Doughnuts and Spiced Orange Ring Doughnuts,2nd,Edible Rock Garden,10,_Final,9
+Ruby,Dulce De Leche Filled Doughnuts and Raspberry & Cardamom Ring Doughnuts,3rd,Magical Edible Landscape,10,_Final,9
+Andrew,'12 Days Home For Christmas' Biscuits,2nd,'Boozy Bauble' Cake,special,The_Great_Christmas_Bake_Off,9
+Flo,Spiced Treacle & Ginger Biscuits,4th,'Very Merry Prezzie!',special,The_Great_Christmas_Bake_Off,9
+Jane,'12 Days of Decorating' Biscuits,1st,'Practically Perfect Penguin Present' Cake,special,The_Great_Christmas_Bake_Off,9
+Liam,'12 Essentials of Liam' Vanilla Mince Pie Shortbread,3rd,'3-In-1 It's Gotta Be Fun' Cake,special,The_Great_Christmas_Bake_Off,9
+Candice,'Festive' Apple Stollen,2nd,'Wear More Lipstick' Cake,special,The_Great_Festive_Bake_Off,9
+Kate,Ginger & Almond Stollen,4th,'Dream Restaurant' Cake,special,The_Great_Festive_Bake_Off,9
+Steven,'Stag Night' Stollen,1st,'Communication' Cake,special,The_Great_Festive_Bake_Off,9
+Tamal,Orange & Rum Stollen,3rd,'Tailor's Dummy' Cake,special,The_Great_Festive_Bake_Off,9
