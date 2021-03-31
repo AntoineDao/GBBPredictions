@@ -1,4 +1,4 @@
-lxml==4.4.1
+lxml==4.6.3
 beautifulsoup4==4.8.1
 pandas==0.22.0
 requests==2.20.1
